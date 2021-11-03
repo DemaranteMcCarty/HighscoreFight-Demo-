@@ -1,1 +1,2 @@
-# HighscoreFight-Demo-
+# HighscoreFight (Demo)
+
