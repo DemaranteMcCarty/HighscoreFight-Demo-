@@ -9,3 +9,5 @@
   <p>Play <a href="http://127.0.0.1:8090/Highscore%20Fight%20(Demo).html?22199">Highscore Fight</a></p>
   
  <p>Note: This game is unfinished.</p>
+
+<p>The new demo game is here: <a href="http://127.0.0.1:8090/Kaizo%20Man%20(Demo).html?29917">Kaizo Man (Demo)</a></p>
